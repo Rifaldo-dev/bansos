@@ -12,7 +12,9 @@ Solusi cloud lebih maksimal dengan Free Trial 3 bulan dari DCloud. Berlaku untuk
 
 ## Persyaratan
 
-- Klaim melalui Sales DCloud,Pelanggan existing hanya untuk layanan yang belum pernah digunakan,Tanpa Managed Service / Lisensi OS
+- Klaim melalui Sales DCloud
+- Pelanggan existing hanya untuk layanan yang belum pernah digunakan
+- Tanpa Managed Service / Lisensi OS
 
 ---
 
